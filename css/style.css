@@ -1,0 +1,248 @@
+*{
+	
+	margin: 0px;
+	padding: 0px;	
+}
+
+body{
+	font-family: 'Lato', sans-serif;
+
+}
+.container{
+	width: 1140px;
+	margin: 0 auto;
+}
+
+header{
+	width: 100%;
+	float: left;
+	padding: 24px 0px;
+	background-color: #f6f9f9;
+
+}
+
+.bannar{
+	width: 100%;
+	float: left;
+	padding : 75px 0px;
+	background-image: url(../image/b2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+.bannar-main{
+	
+	width: 60%;
+	margin: 0 auto;
+	padding-top: 120px;
+	text-align: center;
+
+}
+
+.bannar-main h2{
+	font-size: 120px;
+	color: white;
+
+}
+
+.bannar-main span{
+
+border-bottom: 3px solid #15a4fa;
+display: block;
+width: 90%;
+margin: 30px auto;
+}
+
+.bannar-main p{
+	
+	font-size: 20px;
+	color: white;
+	margin-bottom: 50px;
+
+	
+}
+
+.button{
+	background-color: transparent;
+	padding: 15px 30px;
+	color: white;
+	cursor: pointer;
+	border: 1px solid #15a4fa;
+	font-size: 20px;
+}
+
+.second-section{
+	width: 100%;
+	float: left;
+	padding : 75px 0px;
+	background-color: #f6f9f9;
+}
+
+.second-main{
+	width: 60%;
+	margin: 0 auto;
+	padding-top: 20px;
+	text-align: center;
+}
+
+.second-main h2{
+	font-size: 40px;
+	color: #2d3950;
+	margin-bottom: 30px;
+}
+
+.second-main p {
+	font-size: 16px;
+	color: #a7a8a8;
+
+}
+
+.third-section{
+	width: 100%;
+	float: left;
+	padding : 75px 0px;
+	background-color: #ffffff;
+}
+.third-main{
+	width:100%;
+	margin: 0 auto;
+	padding-top: 20px 20px;
+	text-align: center;
+	
+}
+.step-one{
+	float: left;
+	margin: 0 auto;
+	width: 30%;
+	padding-left: 10%;
+	
+}
+
+.step-two{
+	float: left;
+	margin: 0 auto;
+	width: 30%;
+	
+}
+
+.step-three{
+	float: left;
+	margin: 0 auto;
+	width: 30%;
+	
+}
+
+h3{
+	font-size: 22px;
+
+}
+
+p{
+	
+}
+
+.Showcase{
+	width: 100%;
+	float: left;
+	padding : 75px 0px;
+	background-color: #f6f9f9;
+}
+
+.Showcase{
+	width: 100%;
+	float: left;
+	padding : 75px 0px;
+	background-color: #f6f9f9;
+}
+
+h1{
+	font-size: 41px;
+	color: black;
+	text-align: center;
+	padding: 10px;
+}
+
+.showp{
+	font-size: 15px;
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+.showcase-one-part{
+	width:100%;
+	margin: 0 auto;
+	padding-top: 20px 20px;
+	float: left;
+	
+}
+
+.img-one{
+	float: left;
+
+
+}
+
+.img-two{
+	float: left;
+
+}
+
+.img-three{
+	float: left;
+
+}
+
+.contact{
+	background-image: url(../image/way.jpg);
+	width: 100%;
+	float: left;
+
+
+}
+.overly{
+	background-color: #1616168a;
+}
+
+.contact-form{
+	widows: 600px;
+	margin: 0 auto;
+	padding: 80px 0px;
+}
+
+.form-control{
+	width: 100%;
+	height: 35px;
+	margin: 5px 0;
+}
+
+.textarea{
+	width: 100%;
+	height: 215px;
+
+}
+
+.check{
+	width: 50%;
+	float: left;
+}
+
+.checkbox{
+
+
+}
+
+.footer-btn{
+	width: 8%;
+	float: left;
+}
+
+
+
+
+
+
+
+
+
+
